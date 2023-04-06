@@ -34,6 +34,8 @@ const Form = styled.form`
 const Title = styled.h1`
  font-size: 24px;
  font-weight: 300;
+ text-align: center;
+
 `;
 
 const Input = styled.input`
@@ -46,6 +48,7 @@ const Input = styled.input`
 const Agreement = styled.span`
  font-size: 12px;
  margin: 20px 0px;
+ text-align: center;
 `;
 
 const Button = styled.button`
